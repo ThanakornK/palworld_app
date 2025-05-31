@@ -1,0 +1,8785 @@
+[
+  {
+    "Id": "1",
+    "Name": "Lamball",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Digtoise"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "Name": "Cattiva",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Cawgnito"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "Name": "Chikipi",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Bristla"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Leezpunk"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "Name": "Lifmunk",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Daedream"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lunaris"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "Name": "Foxparks",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Bristla"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Robinquill"
+      }
+    ]
+  },
+  {
+    "Id": "5B",
+    "Name": "Foxparks Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Kelpsea Ignis"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "Name": "Fuack",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Nox"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Verdash"
+      }
+    ]
+  },
+  {
+    "Id": "7",
+    "Name": "Sparkit",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Flopie"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Nitemary"
+      }
+    ]
+  },
+  {
+    "Id": "8",
+    "Name": "Tanzee",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Lovander"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Shroomer Noct"
+      }
+    ]
+  },
+  {
+    "Id": "9",
+    "Name": "Rooby",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Menasting Terra",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Blazamut Ryu",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Lullu"
+      }
+    ]
+  },
+  {
+    "Id": "10",
+    "Name": "Pengullet",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Woolipop"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Tanzee"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gorirat"
+      }
+    ]
+  },
+  {
+    "Id": "11",
+    "Name": "Penking",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "12",
+    "Name": "Jolthog",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Electricity",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenovader",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Dinossom"
+      }
+    ]
+  },
+  {
+    "Id": "12B",
+    "Name": "Jolthog Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Woolipop"
+      }
+    ]
+  },
+  {
+    "Id": "13",
+    "Name": "Gumoss",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Woolipop"
+      }
+    ]
+  },
+  {
+    "Id": "13B",
+    "Name": "Special Flower Gumoss",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Woolipop"
+      }
+    ]
+  },
+  {
+    "Id": "14",
+    "Name": "Vixy",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Gumoss"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Swee"
+      }
+    ]
+  },
+  {
+    "Id": "15",
+    "Name": "Hoocrates",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Bristla"
+      }
+    ]
+  },
+  {
+    "Id": "16",
+    "Name": "Teafant",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Kelpsea"
+      }
+    ]
+  },
+  {
+    "Id": "17",
+    "Name": "Depresso",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Ribbuny"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Felbat"
+      }
+    ]
+  },
+  {
+    "Id": "18",
+    "Name": "Cremis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Mozzarina"
+      }
+    ]
+  },
+  {
+    "Id": "19",
+    "Name": "Daedream",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      }
+    ]
+  },
+  {
+    "Id": "20",
+    "Name": "Rushoar",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "Id": "21",
+    "Name": "Nox",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Dazzi"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "22",
+    "Name": "Fuddler",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Woolipop"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Loupmoon"
+      }
+    ]
+  },
+  {
+    "Id": "23",
+    "Name": "Killamari",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Wixen"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Nyafia"
+      }
+    ]
+  },
+  {
+    "Id": "24",
+    "Name": "Mau",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Jolthog"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Celaray"
+      }
+    ]
+  },
+  {
+    "Id": "24B",
+    "Name": "Mau Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Daedream"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gobfin"
+      }
+    ]
+  },
+  {
+    "Id": "25",
+    "Name": "Celaray",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Foxcicle"
+      }
+    ]
+  },
+  {
+    "Id": "26",
+    "Name": "Direhowl",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Gorirat"
+      }
+    ]
+  },
+  {
+    "Id": "27",
+    "Name": "Tocotoco",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Digtoise"
+      }
+    ]
+  },
+  {
+    "Id": "28",
+    "Name": "Flopie",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Tarantriss"
+      }
+    ]
+  },
+  {
+    "Id": "29",
+    "Name": "Mozzarina",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Bushi"
+      }
+    ]
+  },
+  {
+    "Id": "30",
+    "Name": "Bristla",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenogard",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Dumud"
+      }
+    ]
+  },
+  {
+    "Id": "31",
+    "Name": "Gobfin",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lovander"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Celaray"
+      }
+    ]
+  },
+  {
+    "Id": "31B",
+    "Name": "Gobfin Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Reindrix"
+      }
+    ]
+  },
+  {
+    "Id": "32",
+    "Name": "Hangyu",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Fuddler"
+      }
+    ]
+  },
+  {
+    "Id": "32B",
+    "Name": "Hangyu Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Daedream"
+      }
+    ]
+  },
+  {
+    "Id": "33",
+    "Name": "Mossanda",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Shroomer Noct"
+      }
+    ]
+  },
+  {
+    "Id": "33B",
+    "Name": "Mossanda Lux",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Helzephyr"
+      }
+    ]
+  },
+  {
+    "Id": "34",
+    "Name": "Woolipop",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Mozzarina"
+      }
+    ]
+  },
+  {
+    "Id": "35",
+    "Name": "Caprity",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Caprity Noct"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dinossom"
+      }
+    ]
+  },
+  {
+    "Id": "35B",
+    "Name": "Caprity Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Melpaca"
+      }
+    ]
+  },
+  {
+    "Id": "36",
+    "Name": "Melpaca",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Dinossom"
+      }
+    ]
+  },
+  {
+    "Id": "37",
+    "Name": "Eikthyrdeer",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Direhowl"
+      }
+    ]
+  },
+  {
+    "Id": "37B",
+    "Name": "Eikthyrdeer Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Galeclaw"
+      }
+    ]
+  },
+  {
+    "Id": "38",
+    "Name": "Nitewing",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Elphidran"
+      }
+    ]
+  },
+  {
+    "Id": "39",
+    "Name": "Ribbuny",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Daedream"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Wixen"
+      }
+    ]
+  },
+  {
+    "Id": "39B",
+    "Name": "Ribbuny Botan",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Dazzi"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Wixen"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Yakumo"
+      }
+    ]
+  },
+  {
+    "Id": "40",
+    "Name": "Incineram",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Celaray"
+      }
+    ]
+  },
+  {
+    "Id": "40B",
+    "Name": "Incineram Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Broncherry"
+      }
+    ]
+  },
+  {
+    "Id": "41",
+    "Name": "Cinnamoth",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Menasting"
+      }
+    ]
+  },
+  {
+    "Id": "42",
+    "Name": "Arsox",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Penking"
+      }
+    ]
+  },
+  {
+    "Id": "43",
+    "Name": "Dumud",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Omascul"
+      }
+    ]
+  },
+  {
+    "Id": "44",
+    "Name": "Cawgnito",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Mozzarina"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Wixen"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Nyafia"
+      }
+    ]
+  },
+  {
+    "Id": "45",
+    "Name": "Leezpunk",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Caprity"
+      }
+    ]
+  },
+  {
+    "Id": "45B",
+    "Name": "Leezpunk Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "Id": "46",
+    "Name": "Loupmoon",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Vaelet"
+      }
+    ]
+  },
+  {
+    "Id": "46B",
+    "Name": "Loupmoon Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Broncherry"
+      }
+    ]
+  },
+  {
+    "Id": "47",
+    "Name": "Galeclaw",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Mozzarina"
+      }
+    ]
+  },
+  {
+    "Id": "48",
+    "Name": "Robinquill",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Katress"
+      }
+    ]
+  },
+  {
+    "Id": "48B",
+    "Name": "Robinquill Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Mozzarina"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Celaray"
+      }
+    ]
+  },
+  {
+    "Id": "49",
+    "Name": "Gorirat",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "Id": "49B",
+    "Name": "Gorirat Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "50",
+    "Name": "Beegarde",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Lullu"
+      }
+    ]
+  },
+  {
+    "Id": "51",
+    "Name": "Elizabee",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Astegon"
+      }
+    ]
+  },
+  {
+    "Id": "52",
+    "Name": "Grintale",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "Id": "53",
+    "Name": "Swee",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Blazamut Ryu",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Menasting Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Robinquill"
+      }
+    ]
+  },
+  {
+    "Id": "54",
+    "Name": "Sweepa",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "55",
+    "Name": "Chillet",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Croajiro"
+      }
+    ]
+  },
+  {
+    "Id": "55B",
+    "Name": "Chillet Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Blazamut Ryu",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Wumpo"
+      }
+    ]
+  },
+  {
+    "Id": "56",
+    "Name": "Univolt",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Yakumo"
+      }
+    ]
+  },
+  {
+    "Id": "57",
+    "Name": "Foxcicle",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "58",
+    "Name": "Pyrin",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Jormuntide"
+      }
+    ]
+  },
+  {
+    "Id": "58B",
+    "Name": "Pyrin Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Mammorest"
+      }
+    ]
+  },
+  {
+    "Id": "59",
+    "Name": "Reindrix",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Prunelia"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Direhowl"
+      }
+    ]
+  },
+  {
+    "Id": "60",
+    "Name": "Rayhound",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Wumpo Botan"
+      }
+    ]
+  },
+  {
+    "Id": "61",
+    "Name": "Kitsun",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Foxcicle"
+      }
+    ]
+  },
+  {
+    "Id": "61B",
+    "Name": "Kitsun Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Fenglope"
+      }
+    ]
+  },
+  {
+    "Id": "62",
+    "Name": "Dazzi",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Nox"
+      }
+    ]
+  },
+  {
+    "Id": "62B",
+    "Name": "Dazzi Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Dazzi"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Surfent"
+      }
+    ]
+  },
+  {
+    "Id": "63",
+    "Name": "Lunaris",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "Id": "64",
+    "Name": "Dinossom",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sweepa"
+      }
+    ]
+  },
+  {
+    "Id": "64B",
+    "Name": "Dinossom Lux",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "65",
+    "Name": "Surfent",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Univolt"
+      }
+    ]
+  },
+  {
+    "Id": "65B",
+    "Name": "Surfent Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "66",
+    "Name": "Maraith",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Mimog"
+      }
+    ]
+  },
+  {
+    "Id": "67",
+    "Name": "Digtoise",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Lovander"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Croajiro"
+      }
+    ]
+  },
+  {
+    "Id": "68",
+    "Name": "Tombat",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "69",
+    "Name": "Lovander",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "70",
+    "Name": "Flambelle",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Leezpunk"
+      }
+    ]
+  },
+  {
+    "Id": "71",
+    "Name": "Vanwyrm",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Elizabee"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Lullu"
+      }
+    ]
+  },
+  {
+    "Id": "71B",
+    "Name": "Vanwyrm Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Nitemary"
+      }
+    ]
+  },
+  {
+    "Id": "72",
+    "Name": "Bushi",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Blazehowl"
+      }
+    ]
+  },
+  {
+    "Id": "72B",
+    "Name": "Bushi Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Caprity"
+      }
+    ]
+  },
+  {
+    "Id": "73",
+    "Name": "Beakon",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Wumpo"
+      }
+    ]
+  },
+  {
+    "Id": "74",
+    "Name": "Ragnahawk",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Reptyro"
+      }
+    ]
+  },
+  {
+    "Id": "75",
+    "Name": "Katress",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Quivern"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Quivern"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Tombat"
+      }
+    ]
+  },
+  {
+    "Id": "75B",
+    "Name": "Katress Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Loupmoon"
+      }
+    ]
+  },
+  {
+    "Id": "76",
+    "Name": "Wixen",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Mimog"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Blazehowl"
+      }
+    ]
+  },
+  {
+    "Id": "76B",
+    "Name": "Wixen Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Woolipop"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Flopie"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Nox"
+      }
+    ]
+  },
+  {
+    "Id": "77",
+    "Name": "Verdash",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Leezpunk"
+      }
+    ]
+  },
+  {
+    "Id": "78",
+    "Name": "Vaelet",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenovader",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Blazehowl"
+      }
+    ]
+  },
+  {
+    "Id": "79",
+    "Name": "Sibelyx",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "80",
+    "Name": "Elphidran",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "80B",
+    "Name": "Elphidran Aqua",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Digtoise"
+      }
+    ]
+  },
+  {
+    "Id": "81",
+    "Name": "Kelpsea",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Galeclaw"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Dazzi"
+      }
+    ]
+  },
+  {
+    "Id": "81B",
+    "Name": "Kelpsea Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Dinossom"
+      }
+    ]
+  },
+  {
+    "Id": "82",
+    "Name": "Azurobe",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Tarantriss"
+      }
+    ]
+  },
+  {
+    "Id": "83",
+    "Name": "Cryolinx",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Kingpaca"
+      }
+    ]
+  },
+  {
+    "Id": "83B",
+    "Name": "Cryolinx Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Silvegis"
+      }
+    ]
+  },
+  {
+    "Id": "84",
+    "Name": "Blazehowl",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Fenglope"
+      }
+    ]
+  },
+  {
+    "Id": "84B",
+    "Name": "Blazehowl Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Nyafia"
+      }
+    ]
+  },
+  {
+    "Id": "85",
+    "Name": "Relaxaurus",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Yakumo",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Pyrin"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "Id": "85B",
+    "Name": "Relaxaurus Lux",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Nyafia"
+      }
+    ]
+  },
+  {
+    "Id": "86",
+    "Name": "Broncherry",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Mossanda"
+      }
+    ]
+  },
+  {
+    "Id": "86B",
+    "Name": "Broncherry Aqua",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Nitewing"
+      }
+    ]
+  },
+  {
+    "Id": "87",
+    "Name": "Petallia",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 3
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Rayhound"
+      }
+    ]
+  },
+  {
+    "Id": "88",
+    "Name": "Reptyro",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Ribbuny Botan",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Mammorest"
+      }
+    ]
+  },
+  {
+    "Id": "88B",
+    "Name": "Reptyro Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Mining",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Mossanda"
+      }
+    ]
+  },
+  {
+    "Id": "89",
+    "Name": "Kingpaca",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Nitewing"
+      }
+    ]
+  },
+  {
+    "Id": "89B",
+    "Name": "Kingpaca Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Prixter"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Elizabee"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Anubis"
+      }
+    ]
+  },
+  {
+    "Id": "90",
+    "Name": "Mammorest",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Wumpo"
+      }
+    ]
+  },
+  {
+    "Id": "90B",
+    "Name": "Mammorest Cryst",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Sootseer",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "91",
+    "Name": "Wumpo",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 4
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Omascul"
+      }
+    ]
+  },
+  {
+    "Id": "91B",
+    "Name": "Wumpo Botan",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Dumud"
+      }
+    ]
+  },
+  {
+    "Id": "92",
+    "Name": "Warsect",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Penking"
+      }
+    ]
+  },
+  {
+    "Id": "92B",
+    "Name": "Warsect Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Rayhound"
+      }
+    ]
+  },
+  {
+    "Id": "93",
+    "Name": "Fenglope",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Azurmane",
+        "Child": "Fenglope Lux"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Kitsun"
+      }
+    ]
+  },
+  {
+    "Id": "93B",
+    "Name": "Fenglope Lux",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Caprity Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Cinnamoth"
+      }
+    ]
+  },
+  {
+    "Id": "94",
+    "Name": "Felbat",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Medicine",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Mozzarina"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Celaray"
+      }
+    ]
+  },
+  {
+    "Id": "95",
+    "Name": "Quivern",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Pyrin"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Relaxaurus"
+      }
+    ]
+  },
+  {
+    "Id": "95B",
+    "Name": "Quivern Botan",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "96",
+    "Name": "Blazamut",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Quivern"
+      }
+    ]
+  },
+  {
+    "Id": "96B",
+    "Name": "Blazamut Ryu",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 4
+      },
+      {
+        "Work": "Mining",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Azurmane",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Blazamut Ryu",
+        "Child": "Vanwyrm"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Starryon"
+      }
+    ]
+  },
+  {
+    "Id": "97",
+    "Name": "Helzephyr",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Beakon"
+      }
+    ]
+  },
+  {
+    "Id": "97B",
+    "Name": "Helzephyr Lux",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Electricity",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Katress"
+      }
+    ]
+  },
+  {
+    "Id": "98",
+    "Name": "Astegon",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Menasting"
+      }
+    ]
+  },
+  {
+    "Id": "99",
+    "Name": "Menasting",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Mammorest"
+      }
+    ]
+  },
+  {
+    "Id": "99B",
+    "Name": "Menasting Terra",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Menasting Terra",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Menasting Terra",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Silvegis"
+      }
+    ]
+  },
+  {
+    "Id": "100",
+    "Name": "Anubis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 4
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "101",
+    "Name": "Jormuntide",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Warsect"
+      }
+    ]
+  },
+  {
+    "Id": "101B",
+    "Name": "Jormuntide Ignis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Petallia"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Grintale"
+      }
+    ]
+  },
+  {
+    "Id": "102",
+    "Name": "Suzaku",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Blazamut"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Blazamut"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Quivern"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Azurmane"
+      }
+    ]
+  },
+  {
+    "Id": "102B",
+    "Name": "Suzaku Aqua",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Blazamut"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Pyrin"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Elphidran"
+      }
+    ]
+  },
+  {
+    "Id": "103",
+    "Name": "Grizzbolt",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Electricity",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Silvegis"
+      }
+    ]
+  },
+  {
+    "Id": "104",
+    "Name": "Lyleen",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 4
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Cryolinx"
+      }
+    ]
+  },
+  {
+    "Id": "104B",
+    "Name": "Lyleen Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Grintale"
+      }
+    ]
+  },
+  {
+    "Id": "105",
+    "Name": "Faleris",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Elphidran"
+      }
+    ]
+  },
+  {
+    "Id": "105B",
+    "Name": "Faleris Aqua",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Watering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "106",
+    "Name": "Orserk",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      },
+      {
+        "Work": "Electricity",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Gildane",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Splatterina"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Dazzi Noct",
+        "Child": "Omascul"
+      }
+    ]
+  },
+  {
+    "Id": "107",
+    "Name": "Shadowbeak",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Prixter"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "108",
+    "Name": "Paladius",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Suzaku"
+      }
+    ]
+  },
+  {
+    "Id": "109",
+    "Name": "Necromus",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Chillet Ignis",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Bushi Noct",
+        "Child": "Pyrin"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Suzaku"
+      }
+    ]
+  },
+  {
+    "Id": "110",
+    "Name": "Frostallion",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Astegon"
+      }
+    ]
+  },
+  {
+    "Id": "110B",
+    "Name": "Frostallion Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Helzephyr"
+      }
+    ]
+  },
+  {
+    "Id": "111",
+    "Name": "Jetragon",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Beakon"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Pyrin"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Astegon"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Sibelyx"
+      }
+    ]
+  },
+  {
+    "Id": "112",
+    "Name": "Bellanoir",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 4
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Bellanoir",
+        "Child": "Sibelyx"
+      }
+    ]
+  },
+  {
+    "Id": "112B",
+    "Name": "Bellanoir Libero",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 4
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Starryon"
+      }
+    ]
+  },
+  {
+    "Id": "113",
+    "Name": "Selyne",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 4
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Selyne",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Elphidran"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "114",
+    "Name": "Croajiro",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Croajiro",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Croajiro",
+        "Child": "Vaelet"
+      }
+    ]
+  },
+  {
+    "Id": "115",
+    "Name": "Lullu",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Lullu",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Lullu",
+        "Child": "Direhowl"
+      }
+    ]
+  },
+  {
+    "Id": "116",
+    "Name": "Shroomer",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Shroomer",
+        "Child": "Prunelia"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Shroomer",
+        "Child": "Felbat"
+      }
+    ]
+  },
+  {
+    "Id": "116B",
+    "Name": "Shroomer Noct",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Sootseer",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Warsect Terra",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Kitsun"
+      }
+    ]
+  },
+  {
+    "Id": "117",
+    "Name": "Kikit",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Kikit",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Fenglope Lux",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Kikit",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Loupmoon Cryst",
+        "Child": "Loupmoon"
+      }
+    ]
+  },
+  {
+    "Id": "118",
+    "Name": "Sootseer",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Sootseer",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Azurmane"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Eikthyrdeer"
+      }
+    ]
+  },
+  {
+    "Id": "119",
+    "Name": "Prixter",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Prixter",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Prixter",
+        "Child": "Kitsun"
+      }
+    ]
+  },
+  {
+    "Id": "120",
+    "Name": "Knocklem",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 4
+      },
+      {
+        "Work": "Gathering",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Knocklem",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Menasting Terra"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Petallia"
+      }
+    ]
+  },
+  {
+    "Id": "121",
+    "Name": "Yakumo",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Yakumo",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Galeclaw"
+      }
+    ]
+  },
+  {
+    "Id": "122",
+    "Name": "Dogen",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Dogen",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Dumud"
+      }
+    ]
+  },
+  {
+    "Id": "123",
+    "Name": "Dazemu",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Dazemu",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Broncherry"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Nitemary"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Robinquill"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Kingpaca"
+      }
+    ]
+  },
+  {
+    "Id": "124",
+    "Name": "Mimog",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Mimog",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Mimog",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Fenglope"
+      }
+    ]
+  },
+  {
+    "Id": "125",
+    "Name": "Xenovader",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenovader",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Xenovader",
+        "Child": "Katress"
+      }
+    ]
+  },
+  {
+    "Id": "126",
+    "Name": "Xenogard",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenogard",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Xenogard",
+        "Child": "Univolt"
+      }
+    ]
+  },
+  {
+    "Id": "127",
+    "Name": "Xenolord",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Celaray"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Xenolord",
+        "Child": "Grintale"
+      }
+    ]
+  },
+  {
+    "Id": "128",
+    "Name": "Nitemary",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Prixter"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Gobfin"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Sootseer"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Shroomer Noct"
+      }
+    ]
+  },
+  {
+    "Id": "129",
+    "Name": "Starryon",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Starryon",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Bushi"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Starryon",
+        "Child": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "Id": "130",
+    "Name": "Silvegis",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Silvegis",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Foxcicle"
+      }
+    ]
+  },
+  {
+    "Id": "131",
+    "Name": "Smokie",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Smokie",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Jolthog"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Smokie",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Kelpsea Ignis"
+      }
+    ]
+  },
+  {
+    "Id": "132",
+    "Name": "Celesdir",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 4
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Celesdir",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Maraith"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Direhowl"
+      }
+    ]
+  },
+  {
+    "Id": "133",
+    "Name": "Omascul",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Omascul",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Gildane"
+      }
+    ]
+  },
+  {
+    "Id": "134",
+    "Name": "Splatterina",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 4
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Splatterina",
+        "Child": "Surfent"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Starryon"
+      },
+      {
+        "Parent": "Splatterina",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Robinquill"
+      }
+    ]
+  },
+  {
+    "Id": "135",
+    "Name": "Tarantriss",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Tarantriss",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Caprity"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Rooby"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Sweepa"
+      },
+      {
+        "Parent": "Tarantriss",
+        "Child": "Tombat"
+      }
+    ]
+  },
+  {
+    "Id": "136",
+    "Name": "Azurmane",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Electricity",
+        "Level": 4
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Lovander"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Helzephyr"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "Id": "137",
+    "Name": "Bastigor",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 3
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bastigor",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Rayhound"
+      }
+    ]
+  },
+  {
+    "Id": "138",
+    "Name": "Prunelia",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 3
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Nitemary",
+        "Child": "Shroomer Noct"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Omascul"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Celesdir",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Ragnahawk"
+      }
+    ]
+  },
+  {
+    "Id": "139",
+    "Name": "Nyafia",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 3
+      },
+      {
+        "Work": "Lumbering",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nyafia",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Elizabee"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Nyafia",
+        "Child": "Sibelyx"
+      },
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Fenglope"
+      }
+    ]
+  },
+  {
+    "Id": "140",
+    "Name": "Gildane",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Foxparks Cryst",
+        "Child": "Lullu"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Cinnamoth"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Gildane",
+        "Child": "Menasting"
+      }
+    ]
+  }
+]
