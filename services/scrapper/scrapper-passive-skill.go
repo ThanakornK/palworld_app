@@ -124,3 +124,91 @@ func isPassiveSkillExists(passiveSkills []PassiveSkill, pk string) bool {
 	}
 	return false
 }
+
+type ComboPassiveSkill struct {
+	Name   string
+	Skills []string
+}
+
+func BestComboPassiveSkill() error {
+	// URL of the Game8 Palworld Best Combo Passive Skills page
+	url := "https://game8.co/games/Palworld/archives/440414"
+
+	topicCombo := map[string]interface{}{
+		"combat": "hs_4",
+		"work":   "hs_5",
+		"mount":  "hs_6",
+	}
+
+	// Read existing combo passive skills data or create new slice if file doesn't exist
+	var comboPks []ComboPassiveSkill
+
+	// Fetch the HTML document
+	resp, err := http.Get(url)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		log.Fatalf("Failed to fetch URL: status code %d", resp.StatusCode)
+	}
+
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	for k, v := range topicCombo {
+		comboObj := make([]string, 0)
+		comboName := strings.Replace(k, string(k[0]), strings.ToUpper(string(k[0])), 1)
+		doc.Find("h4.a-header--4").Each(func(i int, s *goquery.Selection) {
+			if id, exists := s.Attr("id"); exists && id == v {
+
+				fmt.Printf("📘 Found 'Best Passive Skill Combos for %s Pals' section from %s\n", comboName, url)
+
+				next := s.Next()
+				for {
+					if goquery.NodeName(next) == "table" {
+						break
+					}
+					next = next.Next()
+					if next == nil {
+						fmt.Println("⚠️ No table found after the heading.")
+						return
+					}
+				}
+
+				// Parse the rows in the table
+				next.Find("tbody tr").Each(func(i int, row *goquery.Selection) {
+					if len(comboObj) < 4 {
+						row.Find("td").Each(func(i int, col *goquery.Selection) {
+							pkName := strings.TrimSpace(col.Text())
+							if pkName != "" {
+								comboObj = append(comboObj, pkName)
+							}
+						})
+					}
+
+				})
+			}
+		})
+		comboPks = append(comboPks, ComboPassiveSkill{Name: comboName, Skills: comboObj})
+	}
+
+	// Convert the slice to JSON
+	jsonData, err := json.MarshalIndent(comboPks, "", "  ")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	// Write the JSON data to a file
+	err = os.WriteFile("./data/passive_skill_combos.json", jsonData, 0644)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println("Combo passive skills data saved to passive_skill_combos.json result is", len(comboPks))
+
+	return nil
+}

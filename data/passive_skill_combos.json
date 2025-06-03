@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Combat",
+    "Skills": [
+      "Legend",
+      "Demon God",
+      "Musclehead",
+      "Ferocious"
+    ]
+  },
+  {
+    "Name": "Work",
+    "Skills": [
+      "Artisan",
+      "Work Slave",
+      "Serious",
+      "Remarkable Craftsmanship"
+    ]
+  },
+  {
+    "Name": "Mount",
+    "Skills": [
+      "Swift",
+      "Legend",
+      "Runner",
+      "Eternal Engine"
+    ]
+  }
+]

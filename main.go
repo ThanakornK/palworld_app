@@ -67,5 +67,13 @@ func updateData() error {
 		return err
 	}
 
+	// Wait for 2 seconds before running the next function
+	time.Sleep(5 * time.Second)
+
+	err = scrapper.BestComboPassiveSkill()
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
