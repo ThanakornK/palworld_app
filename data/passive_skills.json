@@ -5,13 +5,13 @@
     "Tier": -3
   },
   {
-    "Name": "Pacifist",
-    "Effect": "Attack -20%",
+    "Name": "Brittle",
+    "Effect": "Defense -20%",
     "Tier": -3
   },
   {
-    "Name": "Brittle",
-    "Effect": "Defense -20%",
+    "Name": "Pacifist",
+    "Effect": "Attack -20%",
     "Tier": -3
   },
   {
@@ -25,13 +25,13 @@
     "Tier": -2
   },
   {
-    "Name": "Shabby",
-    "Effect": "Sale price -10%",
+    "Name": "Clumsy",
+    "Effect": "Work Speed -10%",
     "Tier": -1
   },
   {
-    "Name": "Clumsy",
-    "Effect": "Work Speed -10%",
+    "Name": "Mercy Hit",
+    "Effect": "Pacifist. Will not reduce the target's health below 1.",
     "Tier": -1
   },
   {
@@ -45,8 +45,8 @@
     "Tier": -1
   },
   {
-    "Name": "Easygoing",
-    "Effect": "Active skill cooldown extension -15%",
+    "Name": "Coward",
+    "Effect": "Attack -10%",
     "Tier": -1
   },
   {
@@ -55,13 +55,13 @@
     "Tier": -1
   },
   {
-    "Name": "Mercy Hit",
-    "Effect": "Pacifist. Will not reduce the target's health below 1.",
+    "Name": "Shabby",
+    "Effect": "Sale price -10%",
     "Tier": -1
   },
   {
-    "Name": "Coward",
-    "Effect": "Attack -10%",
+    "Name": "Easygoing",
+    "Effect": "Active skill cooldown extension -15%",
     "Tier": -1
   },
   {
@@ -75,6 +75,31 @@
     "Tier": 0
   },
   {
+    "Name": "Lucky",
+    "Effect": "Work Speed +15% and Attack +15%",
+    "Tier": 0
+  },
+  {
+    "Name": "King of the Waves",
+    "Effect": "50.0% increase movement speed on water.",
+    "Tier": 0
+  },
+  {
+    "Name": "Lunker",
+    "Effect": "20% increase to Water attack damage, 20% increase to Ice attack damage, 20% increase to Defense.",
+    "Tier": 0
+  },
+  {
+    "Name": "Diamond Body",
+    "Effect": "Defense +30%",
+    "Tier": 0
+  },
+  {
+    "Name": "Vampiric",
+    "Effect": "Absorbs a portion of the damage dealt to restore. Does not sleep at night and continues to work.",
+    "Tier": 0
+  },
+  {
     "Name": "Heart of the Immovable King",
     "Effect": "SAN drops +20.0% slower",
     "Tier": 0
@@ -85,33 +110,8 @@
     "Tier": 0
   },
   {
-    "Name": "Legend",
-    "Effect": "Attack +20%, Defense +20%, and Movement Speed +15%",
-    "Tier": 0
-  },
-  {
-    "Name": "Eternal Flame",
-    "Effect": "30% increase to Fire attack damage, 30% increase to Lightning attack damage",
-    "Tier": 0
-  },
-  {
-    "Name": "Diamond Body",
-    "Effect": "Defense +30%",
-    "Tier": 0
-  },
-  {
-    "Name": "Lucky",
-    "Effect": "Work Speed +15% and Attack +15%",
-    "Tier": 0
-  },
-  {
-    "Name": "Remarkable Craftmanship",
+    "Name": "Remarkable Craftsmanship",
     "Effect": "Work Speed +75%",
-    "Tier": 0
-  },
-  {
-    "Name": "Vampiric",
-    "Effect": "Absorbs a portion of the damage dealt to restore. Does not sleep at night and continues to work.",
     "Tier": 0
   },
   {
@@ -125,33 +125,28 @@
     "Tier": 0
   },
   {
-    "Name": "Siren of the Void",
-    "Effect": "30% increase to Dark attack damage, 30% increase to Ice attack damage",
-    "Tier": 0
-  },
-  {
     "Name": "Invader",
     "Effect": "30% increase in Dark attack damage. 30% increase in Dragon attack damage",
     "Tier": 0
   },
   {
-    "Name": "Cheery",
-    "Effect": "10% decrease to incoming Dark damage",
-    "Tier": 1
+    "Name": "Eternal Flame",
+    "Effect": "30% increase to Fire attack damage, 30% increase to Lightning attack damage",
+    "Tier": 0
   },
   {
-    "Name": "Botanical Barrier",
-    "Effect": "10% decrease to incoming Grass damage",
-    "Tier": 1
+    "Name": "Siren of the Void",
+    "Effect": "30% increase to Dark attack damage, 30% increase to Ice attack damage",
+    "Tier": 0
   },
   {
-    "Name": "Power of Gaia",
-    "Effect": "10% increase to Ground attack damage",
-    "Tier": 1
+    "Name": "Legend",
+    "Effect": "Attack +20%, Defense +20%, and Movement Speed +15%",
+    "Tier": 0
   },
   {
-    "Name": "Impatient",
-    "Effect": "Active skill cooldown reduction 15.0%",
+    "Name": "Dainty Eater",
+    "Effect": "Satiety drops +10% slower",
     "Tier": 1
   },
   {
@@ -160,13 +155,18 @@
     "Tier": 1
   },
   {
+    "Name": "Sleek Stroke",
+    "Effect": "30.0% increase movement speed on water.",
+    "Tier": 1
+  },
+  {
     "Name": "Work Slave",
     "Effect": "Work Speed +30%",
     "Tier": 1
   },
   {
-    "Name": "Heated Body",
-    "Effect": "10% decrease to incoming Ice damage",
+    "Name": "Botanical Barrier",
+    "Effect": "10% decrease to incoming Grass damage",
     "Tier": 1
   },
   {
@@ -175,8 +175,8 @@
     "Tier": 1
   },
   {
-    "Name": "Otherworldly Cells",
-    "Effect": "Attack +10.0%, Fire damage reduction 15.0%, Lightning damage reduction 15.0%",
+    "Name": "Hooligan",
+    "Effect": "Attack +15%",
     "Tier": 1
   },
   {
@@ -185,8 +185,8 @@
     "Tier": 1
   },
   {
-    "Name": "Coldblooded",
-    "Effect": "10% increase to Ice attack damage",
+    "Name": "Cheery",
+    "Effect": "10% decrease to incoming Dark damage",
     "Tier": 1
   },
   {
@@ -200,8 +200,8 @@
     "Tier": 1
   },
   {
-    "Name": "Fine Furs",
-    "Effect": "Sale price 3%",
+    "Name": "Hydromaniac",
+    "Effect": "10% increase to Water attack damage",
     "Tier": 1
   },
   {
@@ -220,8 +220,8 @@
     "Tier": 1
   },
   {
-    "Name": "Zen Mind",
-    "Effect": "10% increase to Neutral attack damage",
+    "Name": "Heated Body",
+    "Effect": "10% decrease to incoming Ice damage",
     "Tier": 1
   },
   {
@@ -235,8 +235,8 @@
     "Tier": 1
   },
   {
-    "Name": "Blood of the Dragon",
-    "Effect": "10% increase to Dragon attack damage",
+    "Name": "Positive Thinker",
+    "Effect": "SAN drops +10% slower",
     "Tier": 1
   },
   {
@@ -245,13 +245,13 @@
     "Tier": 1
   },
   {
-    "Name": "Masochist",
-    "Effect": "Defense +15%",
+    "Name": "Power of Gaia",
+    "Effect": "10% increase to Ground attack damage",
     "Tier": 1
   },
   {
-    "Name": "Positive Thinker",
-    "Effect": "SAN drops +10% slower",
+    "Name": "Masochist",
+    "Effect": "Defense +15%",
     "Tier": 1
   },
   {
@@ -265,38 +265,23 @@
     "Tier": 1
   },
   {
-    "Name": "Dainty Eater",
-    "Effect": "Satiety drops +10% slower",
+    "Name": "Blood of the Dragon",
+    "Effect": "10% increase to Dragon attack damage",
     "Tier": 1
   },
   {
-    "Name": "Fragrant Foliage",
-    "Effect": "10% increase to Grass attack damage",
+    "Name": "Impatient",
+    "Effect": "Active skill cooldown reduction 15.0%",
     "Tier": 1
   },
   {
-    "Name": "Conceited",
-    "Effect": "Work Speed +10%",
+    "Name": "Otherworldly Cells",
+    "Effect": "Attack +10.0%, Fire damage reduction 15.0%, Lightning damage reduction 15.0%",
     "Tier": 1
   },
   {
-    "Name": "Fit as a Fiddle",
-    "Effect": "Max Stamina +25% (This effect is only valid for rideable pals.)",
-    "Tier": 1
-  },
-  {
-    "Name": "Dragonkiller",
-    "Effect": "10% decrease to incoming Dragon damage",
-    "Tier": 1
-  },
-  {
-    "Name": "Hydromaniac",
-    "Effect": "10% increase to Water attack damage",
-    "Tier": 1
-  },
-  {
-    "Name": "Hooligan",
-    "Effect": "Attack +15%",
+    "Name": "Fine Furs",
+    "Effect": "Sale price 3%",
     "Tier": 1
   },
   {
@@ -305,14 +290,34 @@
     "Tier": 1
   },
   {
-    "Name": "Runner",
-    "Effect": "20% increase to movement speed",
-    "Tier": 2
+    "Name": "Dragonkiller",
+    "Effect": "10% decrease to incoming Dragon damage",
+    "Tier": 1
   },
   {
-    "Name": "Motivational Leader",
-    "Effect": "25% increase to Player Work Speed.",
-    "Tier": 2
+    "Name": "Zen Mind",
+    "Effect": "10% increase to Neutral attack damage",
+    "Tier": 1
+  },
+  {
+    "Name": "Fit as a Fiddle",
+    "Effect": "Max Stamina +25% (This effect is only valid for rideable pals.)",
+    "Tier": 1
+  },
+  {
+    "Name": "Conceited",
+    "Effect": "Work Speed +10%",
+    "Tier": 1
+  },
+  {
+    "Name": "Fragrant Foliage",
+    "Effect": "10% increase to Grass attack damage",
+    "Tier": 1
+  },
+  {
+    "Name": "Coldblooded",
+    "Effect": "10% increase to Ice attack damage",
+    "Tier": 1
   },
   {
     "Name": "Musclehead",
@@ -325,8 +330,18 @@
     "Tier": 2
   },
   {
-    "Name": "Noble",
-    "Effect": "Sale Price +5%",
+    "Name": "Motivational Leader",
+    "Effect": "25% increase to Player Work Speed.",
+    "Tier": 2
+  },
+  {
+    "Name": "Runner",
+    "Effect": "20% increase to movement speed",
+    "Tier": 2
+  },
+  {
+    "Name": "Spirit Emperor",
+    "Effect": "20% increase to Grass attack damage",
     "Tier": 3
   },
   {
@@ -335,28 +350,13 @@
     "Tier": 3
   },
   {
-    "Name": "Spirit Emperor",
-    "Effect": "20% increase to Grass attack damage",
+    "Name": "Divine Dragon",
+    "Effect": "20% increase to Dragon attack damage",
     "Tier": 3
   },
   {
     "Name": "Lord of the Sea",
     "Effect": "20% increase to Water attack damage",
-    "Tier": 3
-  },
-  {
-    "Name": "Earth Emperor",
-    "Effect": "20% increase to Ground attack damage",
-    "Tier": 3
-  },
-  {
-    "Name": "Flame Emperor",
-    "Effect": "20% increase to Fire attack damage",
-    "Tier": 3
-  },
-  {
-    "Name": "Stronghold Strategist",
-    "Effect": "10% increase to Player Defense",
     "Tier": 3
   },
   {
@@ -370,18 +370,13 @@
     "Tier": 3
   },
   {
-    "Name": "Ice Emperor",
-    "Effect": "20% increase to Ice attack damage",
+    "Name": "Noble",
+    "Effect": "Sale Price +5%",
     "Tier": 3
   },
   {
-    "Name": "Mine Foreman",
-    "Effect": "25% increase to Player Mining Efficiency",
-    "Tier": 3
-  },
-  {
-    "Name": "Lord of Lightning",
-    "Effect": "20% increase to Electric attack damage",
+    "Name": "Earth Emperor",
+    "Effect": "20% increase to Ground attack damage",
     "Tier": 3
   },
   {
@@ -390,13 +385,18 @@
     "Tier": 3
   },
   {
+    "Name": "Flame Emperor",
+    "Effect": "20% increase to Fire attack damage",
+    "Tier": 3
+  },
+  {
     "Name": "Serenity",
     "Effect": "Active skill cooldown reduction 30.0%. Attack +10.0%",
     "Tier": 3
   },
   {
-    "Name": "Ferocious",
-    "Effect": "Attack +20%",
+    "Name": "Lord of Lightning",
+    "Effect": "20% increase to Electric attack damage",
     "Tier": 3
   },
   {
@@ -410,18 +410,18 @@
     "Tier": 3
   },
   {
-    "Name": "Vanguard",
-    "Effect": "10% increase to Player Attack",
-    "Tier": 3
-  },
-  {
     "Name": "Lord of the Underworld",
     "Effect": "20% increase to Dark attack damage",
     "Tier": 3
   },
   {
-    "Name": "Divine Dragon",
-    "Effect": "20% increase to Dragon attack damage",
+    "Name": "Vanguard",
+    "Effect": "10% increase to Player Attack",
+    "Tier": 3
+  },
+  {
+    "Name": "Artisan",
+    "Effect": "Work Speed +50%",
     "Tier": 3
   },
   {
@@ -430,8 +430,28 @@
     "Tier": 3
   },
   {
-    "Name": "Artisan",
-    "Effect": "Work Speed +50%",
+    "Name": "Stronghold Strategist",
+    "Effect": "10% increase to Player Defense",
+    "Tier": 3
+  },
+  {
+    "Name": "Mine Foreman",
+    "Effect": "25% increase to Player Mining Efficiency",
+    "Tier": 3
+  },
+  {
+    "Name": "Ferocious",
+    "Effect": "Attack +20%",
+    "Tier": 3
+  },
+  {
+    "Name": "Ace Swimmer",
+    "Effect": "40.0% increase movement speed on water.",
+    "Tier": 3
+  },
+  {
+    "Name": "Ice Emperor",
+    "Effect": "20% increase to Ice attack damage",
     "Tier": 3
   }
 ]

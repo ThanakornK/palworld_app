@@ -1,7 +1,113 @@
-{
-    "lamball": {
-        "passive_skills": [
-            "Work Slave"
+[
+  {
+    "Name": "Lamball",
+    "StoredPals": [
+      {
+        "ID": 1,
+        "Gender": "f",
+        "PassiveSkills": [
+          "Workaholic",
+          "Fit as a Fiddle"
         ]
-    }
-}
+      }
+    ]
+  },
+  {
+    "Name": "Cattiva",
+    "StoredPals": [
+      {
+        "ID": 1,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Coward",
+          "Ferocious"
+        ]
+      },
+      {
+        "ID": 2,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Coward",
+          "Serenity"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Chikipi",
+    "StoredPals": [
+      {
+        "ID": 1,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Lucky",
+          "Workaholic"
+        ]
+      },
+      {
+        "ID": 2,
+        "Gender": "f",
+        "PassiveSkills": [
+          "Ace Swimmer"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Lifmunk",
+    "StoredPals": [
+      {
+        "ID": 1,
+        "Gender": "f",
+        "PassiveSkills": [
+          "Lucky",
+          "Fine Furs"
+        ]
+      },
+      {
+        "ID": 2,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Lucky",
+          "Mercy Hit",
+          "Impatient"
+        ]
+      },
+      {
+        "ID": 3,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Infinite Stamina"
+        ]
+      },
+      {
+        "ID": 4,
+        "Gender": "f",
+        "PassiveSkills": [
+          "Ferocious"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Foxparks",
+    "StoredPals": [
+      {
+        "ID": 1,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Lucky",
+          "Zen Mind",
+          "Serenity"
+        ]
+      },
+      {
+        "ID": 2,
+        "Gender": "m",
+        "PassiveSkills": [
+          "Motivational Leader"
+        ]
+      }
+    ]
+  }
+]

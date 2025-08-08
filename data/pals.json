@@ -1,8 +1,140 @@
 [
   {
+    "Id": "",
+    "Name": "Purple Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Cave Bat",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Illuminant Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Illuminant Bat",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Rainbow Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Green Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Enchanted Sword",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Lumbering",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Eye of Cthulu",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 4
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Demon Eye",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Blue Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
+    "Id": "",
+    "Name": "Red Slime",
+    "ImageUrl": "",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      }
+    ],
+    "Children": null
+  },
+  {
     "Id": "1",
     "Name": "Lamball",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/4/47/Lamball.png?15ea30",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -51,7 +183,7 @@
   {
     "Id": "2",
     "Name": "Cattiva",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/59/Cattiva.png?2c513c",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -104,7 +236,7 @@
   {
     "Id": "3",
     "Name": "Chikipi",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/e/e9/Chikipi.png?c8a139",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -149,7 +281,7 @@
   {
     "Id": "4",
     "Name": "Lifmunk",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c4/Lifmunk.png?d69950",
     "Suitability": [
       {
         "Work": "Planting",
@@ -206,7 +338,7 @@
   {
     "Id": "5",
     "Name": "Foxparks",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/dd/Foxparks.png?18b8e6",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -247,7 +379,7 @@
   {
     "Id": "5B",
     "Name": "Foxparks Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/3c/Partner_Skill_Equip_icon.png?90ffbd",
     "Suitability": [
       {
         "Work": "Cooling",
@@ -288,7 +420,7 @@
   {
     "Id": "6",
     "Name": "Fuack",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/6c/Fuack.png?e37a61",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -335,9 +467,62 @@
     ]
   },
   {
+    "Id": "6B",
+    "Name": "Fuack Ignis",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 1
+      },
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Fenglope",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Loupmoon",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Yakumo",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Robinquill",
+        "Child": "Rooby"
+      },
+      {
+        "Parent": "Verdash",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Robinquill Terra",
+        "Child": "Maraith"
+      }
+    ]
+  },
+  {
     "Id": "7",
     "Name": "Sparkit",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/e/ee/Sparkit.png?408f58",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -386,7 +571,7 @@
   {
     "Id": "8",
     "Name": "Tanzee",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/34/Tanzee.png?95a086",
     "Suitability": [
       {
         "Work": "Planting",
@@ -443,7 +628,7 @@
   {
     "Id": "9",
     "Name": "Rooby",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f5/Partner_Skill_Fire_Boost_icon.png?5720ba",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -484,7 +669,7 @@
   {
     "Id": "10",
     "Name": "Pengullet",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b3/Pengullet.png?a87c0c",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -535,9 +720,62 @@
     ]
   },
   {
+    "Id": "10B",
+    "Name": "Pengullet Lux",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/3c/Partner_Skill_Equip_icon.png?90ffbd",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Cattiva",
+        "Child": "Jelliette"
+      },
+      {
+        "Parent": "Cremis",
+        "Child": "Jelliette"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Pengullet Lux",
+        "Child": "Bristla"
+      },
+      {
+        "Parent": "Chikipi",
+        "Child": "Flambelle"
+      },
+      {
+        "Parent": "Teafant",
+        "Child": "Foxparks"
+      },
+      {
+        "Parent": "Mau",
+        "Child": "Jellroy"
+      }
+    ]
+  },
+  {
     "Id": "11",
     "Name": "Penking",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -592,9 +830,66 @@
     ]
   },
   {
+    "Id": "11B",
+    "Name": "Penking Lux",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      },
+      {
+        "Work": "Electricity",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nox",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Maraith",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Rushoar",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Leezpunk Ignis",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Wixen Noct",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Rooby",
+        "Child": "Tarantriss"
+      }
+    ]
+  },
+  {
     "Id": "12",
     "Name": "Jolthog",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/50/Jolthog.png?99e104",
     "Suitability": [
       {
         "Work": "Electricity",
@@ -635,7 +930,7 @@
   {
     "Id": "12B",
     "Name": "Jolthog Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/dc/Jolthog_Cryst.png?b1c5ae",
     "Suitability": [
       {
         "Work": "Cooling",
@@ -676,7 +971,7 @@
   {
     "Id": "13",
     "Name": "Gumoss",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f3/Gumoss.png?d3d4bf",
     "Suitability": [
       {
         "Work": "Planting",
@@ -758,7 +1053,7 @@
   {
     "Id": "14",
     "Name": "Vixy",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/79/Vixy.png?1f4a67",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -803,7 +1098,7 @@
   {
     "Id": "15",
     "Name": "Hoocrates",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c5/Hoocrates.png?e8a168",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -844,7 +1139,7 @@
   {
     "Id": "16",
     "Name": "Teafant",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/9e/Partner_Skill_Heal_icon.png?2307e8",
     "Suitability": [
       {
         "Work": "Watering",
@@ -885,7 +1180,7 @@
   {
     "Id": "17",
     "Name": "Depresso",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Depresso.png?781da3",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -934,7 +1229,7 @@
   {
     "Id": "18",
     "Name": "Cremis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/96/Cremis.png?1444d9",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -979,7 +1274,7 @@
   {
     "Id": "19",
     "Name": "Daedream",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1028,7 +1323,7 @@
   {
     "Id": "20",
     "Name": "Rushoar",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/6d/Rushoar.png?c99588",
     "Suitability": [
       {
         "Work": "Mining",
@@ -1069,7 +1364,7 @@
   {
     "Id": "21",
     "Name": "Nox",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/2/2e/Nox.png?d22208",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -1110,7 +1405,7 @@
   {
     "Id": "22",
     "Name": "Fuddler",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/ba/Fuddler.png?fd8169",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1159,7 +1454,7 @@
   {
     "Id": "23",
     "Name": "Killamari",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/bf/Killamari.png?b5ca5b",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -1202,9 +1497,58 @@
     ]
   },
   {
+    "Id": "23B",
+    "Name": "Killamari Primo",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenolord",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Relaxaurus Lux",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Faleris Aqua",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Dogen"
+      },
+      {
+        "Parent": "Menasting Terra",
+        "Child": "Tombat"
+      },
+      {
+        "Parent": "Menasting",
+        "Child": "Prunelia"
+      },
+      {
+        "Parent": "Knocklem",
+        "Child": "Foxcicle"
+      }
+    ]
+  },
+  {
     "Id": "24",
     "Name": "Mau",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Farming",
@@ -1245,7 +1589,7 @@
   {
     "Id": "24B",
     "Name": "Mau Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Cooling",
@@ -1290,7 +1634,7 @@
   {
     "Id": "25",
     "Name": "Celaray",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -1333,9 +1677,58 @@
     ]
   },
   {
+    "Id": "25B",
+    "Name": "Celaray Lux",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Electricity",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Elizabee",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Quivern Botan",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Jormuntide Ignis",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Wumpo"
+      },
+      {
+        "Parent": "Jormuntide",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Warsect",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Selyne",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
     "Id": "26",
     "Name": "Direhowl",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/14/Direhowl.png?f87281",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -1376,7 +1769,7 @@
   {
     "Id": "27",
     "Name": "Tocotoco",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d9/Tocotoco.png?29a310",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -1417,7 +1810,7 @@
   {
     "Id": "28",
     "Name": "Flopie",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f0/Flopie.png?3b8319",
     "Suitability": [
       {
         "Work": "Planting",
@@ -1474,7 +1867,7 @@
   {
     "Id": "29",
     "Name": "Mozzarina",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Farming",
@@ -1515,7 +1908,7 @@
   {
     "Id": "30",
     "Name": "Bristla",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/4/40/Bristla.png?bc36c0",
     "Suitability": [
       {
         "Work": "Planting",
@@ -1572,7 +1965,7 @@
   {
     "Id": "31",
     "Name": "Gobfin",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f9/Gobfin.png?8a97f5",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1621,7 +2014,7 @@
   {
     "Id": "31B",
     "Name": "Gobfin Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/67/Gobfin_Ignis.png?cd7218",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -1670,7 +2063,7 @@
   {
     "Id": "32",
     "Name": "Hangyu",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1719,7 +2112,7 @@
   {
     "Id": "32B",
     "Name": "Hangyu Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1772,7 +2165,7 @@
   {
     "Id": "33",
     "Name": "Mossanda",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -1825,7 +2218,7 @@
   {
     "Id": "33B",
     "Name": "Mossanda Lux",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -1878,7 +2271,7 @@
   {
     "Id": "34",
     "Name": "Woolipop",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/0f/Woolipop.png?38f737",
     "Suitability": [
       {
         "Work": "Farming",
@@ -1919,7 +2312,7 @@
   {
     "Id": "35",
     "Name": "Caprity",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Planting",
@@ -1964,7 +2357,7 @@
   {
     "Id": "35B",
     "Name": "Caprity Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Planting",
@@ -2009,7 +2402,7 @@
   {
     "Id": "36",
     "Name": "Melpaca",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Farming",
@@ -2050,7 +2443,7 @@
   {
     "Id": "37",
     "Name": "Eikthyrdeer",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -2091,7 +2484,7 @@
   {
     "Id": "37B",
     "Name": "Eikthyrdeer Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -2132,7 +2525,7 @@
   {
     "Id": "38",
     "Name": "Nitewing",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -2173,7 +2566,7 @@
   {
     "Id": "39",
     "Name": "Ribbuny",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f1/Ribbuny.png?4cace5",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2222,7 +2615,7 @@
   {
     "Id": "39B",
     "Name": "Ribbuny Botan",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/15/Partner_Skill_Working_icon.png?de5428",
     "Suitability": [
       {
         "Work": "Planting",
@@ -2275,7 +2668,7 @@
   {
     "Id": "40",
     "Name": "Incineram",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -2328,7 +2721,7 @@
   {
     "Id": "40B",
     "Name": "Incineram Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2377,7 +2770,7 @@
   {
     "Id": "41",
     "Name": "Cinnamoth",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/cb/Cinnamoth.png?8271c3",
     "Suitability": [
       {
         "Work": "Planting",
@@ -2422,7 +2815,7 @@
   {
     "Id": "42",
     "Name": "Arsox",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/a/a4/Arsox.png?27658c",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -2467,7 +2860,7 @@
   {
     "Id": "43",
     "Name": "Dumud",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/67/Partner_Skill_Ground_Boost_icon.png?579a7c",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -2518,9 +2911,62 @@
     ]
   },
   {
+    "Id": "43B",
+    "Name": "Dumud Gild",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/67/Partner_Skill_Ground_Boost_icon.png?579a7c",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      },
+      {
+        "Work": "Farming",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Petallia",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Tombat",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Kingpaca"
+      },
+      {
+        "Parent": "Shroomer Noct",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Foxcicle",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Chillet"
+      }
+    ]
+  },
+  {
     "Id": "44",
     "Name": "Cawgnito",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d1/Cawgnito.png?37e02b",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -2561,7 +3007,7 @@
   {
     "Id": "45",
     "Name": "Leezpunk",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Partner_Skill_Detection_icon.png?cda510",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2610,7 +3056,7 @@
   {
     "Id": "45B",
     "Name": "Leezpunk Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Partner_Skill_Detection_icon.png?cda510",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -2663,7 +3109,7 @@
   {
     "Id": "46",
     "Name": "Loupmoon",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2704,7 +3150,7 @@
   {
     "Id": "46B",
     "Name": "Loupmoon Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2749,7 +3195,7 @@
   {
     "Id": "47",
     "Name": "Galeclaw",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/5d/Partner_Skill_Glider_icon.png?a368aa",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -2790,7 +3236,7 @@
   {
     "Id": "48",
     "Name": "Robinquill",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Planting",
@@ -2851,7 +3297,7 @@
   {
     "Id": "48B",
     "Name": "Robinquill Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2908,7 +3354,7 @@
   {
     "Id": "49",
     "Name": "Gorirat",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/1e/Partner_Skill_Self_Boost_icon.png?3423a5",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -2957,7 +3403,7 @@
   {
     "Id": "49B",
     "Name": "Gorirat Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/1e/Partner_Skill_Self_Boost_icon.png?3423a5",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -3006,7 +3452,7 @@
   {
     "Id": "50",
     "Name": "Beegarde",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/56/Beegarde.png?cc13bd",
     "Suitability": [
       {
         "Work": "Planting",
@@ -3071,7 +3517,7 @@
   {
     "Id": "51",
     "Name": "Elizabee",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Planting",
@@ -3128,7 +3574,7 @@
   {
     "Id": "52",
     "Name": "Grintale",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/09/Grintale.png?fbdf1a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -3169,7 +3615,7 @@
   {
     "Id": "53",
     "Name": "Swee",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/73/Swee.png?237662",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -3214,7 +3660,7 @@
   {
     "Id": "54",
     "Name": "Sweepa",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -3259,7 +3705,7 @@
   {
     "Id": "55",
     "Name": "Chillet",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -3304,7 +3750,7 @@
   {
     "Id": "55B",
     "Name": "Chillet Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -3349,7 +3795,7 @@
   {
     "Id": "56",
     "Name": "Univolt",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -3394,7 +3840,7 @@
   {
     "Id": "57",
     "Name": "Foxcicle",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/3d/Partner_Skill_Ice_Boost_icon.png?16f2c1",
     "Suitability": [
       {
         "Work": "Cooling",
@@ -3435,7 +3881,7 @@
   {
     "Id": "58",
     "Name": "Pyrin",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -3480,7 +3926,7 @@
   {
     "Id": "58B",
     "Name": "Pyrin Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -3525,7 +3971,7 @@
   {
     "Id": "59",
     "Name": "Reindrix",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -3566,7 +4012,7 @@
   {
     "Id": "60",
     "Name": "Rayhound",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/2/26/Rayhound.png?dcd65e",
     "Suitability": [
       {
         "Work": "Electricity",
@@ -3607,7 +4053,7 @@
   {
     "Id": "61",
     "Name": "Kitsun",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -3648,7 +4094,7 @@
   {
     "Id": "61B",
     "Name": "Kitsun Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -3689,7 +4135,7 @@
   {
     "Id": "62",
     "Name": "Dazzi",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/99/Dazzi.png?2dbe77",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -3738,7 +4184,7 @@
   {
     "Id": "62B",
     "Name": "Dazzi Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -3791,7 +4237,7 @@
   {
     "Id": "63",
     "Name": "Lunaris",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/ce/Lunaris.png?297d5e",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -3840,7 +4286,7 @@
   {
     "Id": "64",
     "Name": "Dinossom",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -3885,7 +4331,7 @@
   {
     "Id": "64B",
     "Name": "Dinossom Lux",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -3930,7 +4376,7 @@
   {
     "Id": "65",
     "Name": "Surfent",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Watering",
@@ -3971,7 +4417,7 @@
   {
     "Id": "65B",
     "Name": "Surfent Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -4012,7 +4458,7 @@
   {
     "Id": "66",
     "Name": "Maraith",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -4057,7 +4503,7 @@
   {
     "Id": "67",
     "Name": "Digtoise",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Mining",
@@ -4098,7 +4544,7 @@
   {
     "Id": "68",
     "Name": "Tombat",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Partner_Skill_Detection_icon.png?cda510",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -4147,7 +4593,7 @@
   {
     "Id": "69",
     "Name": "Lovander",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -4200,7 +4646,7 @@
   {
     "Id": "70",
     "Name": "Flambelle",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/19/Flambelle.png?bfe6ed",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4253,7 +4699,7 @@
   {
     "Id": "71",
     "Name": "Vanwyrm",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4298,7 +4744,7 @@
   {
     "Id": "71B",
     "Name": "Vanwyrm Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -4343,7 +4789,7 @@
   {
     "Id": "72",
     "Name": "Bushi",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4400,7 +4846,7 @@
   {
     "Id": "72B",
     "Name": "Bushi Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4457,7 +4903,7 @@
   {
     "Id": "73",
     "Name": "Beakon",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -4506,7 +4952,7 @@
   {
     "Id": "74",
     "Name": "Ragnahawk",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4551,7 +4997,7 @@
   {
     "Id": "75",
     "Name": "Katress",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -4600,7 +5046,7 @@
   {
     "Id": "75B",
     "Name": "Katress Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4653,7 +5099,7 @@
   {
     "Id": "76",
     "Name": "Wixen",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f0/Partner_Skill_Fire_Convert_icon.png?fb0ced",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4702,7 +5148,7 @@
   {
     "Id": "76B",
     "Name": "Wixen Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/7f/Partner_Skill_Dark_Convert_icon.png?e3d3b1",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -4751,7 +5197,7 @@
   {
     "Id": "77",
     "Name": "Verdash",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c5/Verdash.png?86eed5",
     "Suitability": [
       {
         "Work": "Planting",
@@ -4808,7 +5254,7 @@
   {
     "Id": "78",
     "Name": "Vaelet",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Planting",
@@ -4865,7 +5311,7 @@
   {
     "Id": "79",
     "Name": "Sibelyx",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Medicine",
@@ -4914,7 +5360,7 @@
   {
     "Id": "80",
     "Name": "Elphidran",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -4955,7 +5401,7 @@
   {
     "Id": "80B",
     "Name": "Elphidran Aqua",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -5000,7 +5446,7 @@
   {
     "Id": "81",
     "Name": "Kelpsea",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/36/Partner_Skill_Water_Boost_icon.png?66da29",
     "Suitability": [
       {
         "Work": "Watering",
@@ -5045,7 +5491,7 @@
   {
     "Id": "81B",
     "Name": "Kelpsea Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/f5/Partner_Skill_Fire_Boost_icon.png?5720ba",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -5090,7 +5536,7 @@
   {
     "Id": "82",
     "Name": "Azurobe",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Watering",
@@ -5129,9 +5575,50 @@
     ]
   },
   {
+    "Id": "82B",
+    "Name": "Azurobe Cryst",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nitemary",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Univolt",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Blazehowl Noct",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
     "Id": "83",
     "Name": "Cryolinx",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -5184,7 +5671,7 @@
   {
     "Id": "83B",
     "Name": "Cryolinx Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/17/Health_icon.png?78ab78",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -5237,7 +5724,7 @@
   {
     "Id": "84",
     "Name": "Blazehowl",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -5282,7 +5769,7 @@
   {
     "Id": "84B",
     "Name": "Blazehowl Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -5327,7 +5814,7 @@
   {
     "Id": "85",
     "Name": "Relaxaurus",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -5372,7 +5859,7 @@
   {
     "Id": "85B",
     "Name": "Relaxaurus Lux",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -5417,7 +5904,7 @@
   {
     "Id": "86",
     "Name": "Broncherry",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -5458,7 +5945,7 @@
   {
     "Id": "86B",
     "Name": "Broncherry Aqua",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Watering",
@@ -5499,7 +5986,7 @@
   {
     "Id": "87",
     "Name": "Petallia",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/4/4e/Petallia.png?fa189e",
     "Suitability": [
       {
         "Work": "Planting",
@@ -5556,7 +6043,7 @@
   {
     "Id": "88",
     "Name": "Reptyro",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -5601,7 +6088,7 @@
   {
     "Id": "88B",
     "Name": "Reptyro Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Mining",
@@ -5646,7 +6133,7 @@
   {
     "Id": "89",
     "Name": "Kingpaca",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -5687,7 +6174,7 @@
   {
     "Id": "89B",
     "Name": "Kingpaca Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -5732,7 +6219,7 @@
   {
     "Id": "90",
     "Name": "Mammorest",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -5781,7 +6268,7 @@
   {
     "Id": "90B",
     "Name": "Mammorest Cryst",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -5830,7 +6317,7 @@
   {
     "Id": "91",
     "Name": "Wumpo",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -5883,7 +6370,7 @@
   {
     "Id": "91B",
     "Name": "Wumpo Botan",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -5936,7 +6423,7 @@
   {
     "Id": "92",
     "Name": "Warsect",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Planting",
@@ -5989,7 +6476,7 @@
   {
     "Id": "92B",
     "Name": "Warsect Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d4/Partner_Skill_Passive_icon.png?b8ed1c",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6038,7 +6525,7 @@
   {
     "Id": "93",
     "Name": "Fenglope",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -6079,7 +6566,7 @@
   {
     "Id": "93B",
     "Name": "Fenglope Lux",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -6124,7 +6611,7 @@
   {
     "Id": "94",
     "Name": "Felbat",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c7/Felbat.png?c7a22e",
     "Suitability": [
       {
         "Work": "Medicine",
@@ -6165,7 +6652,7 @@
   {
     "Id": "95",
     "Name": "Quivern",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6218,7 +6705,7 @@
   {
     "Id": "95B",
     "Name": "Quivern Botan",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Planting",
@@ -6275,7 +6762,7 @@
   {
     "Id": "96",
     "Name": "Blazamut",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -6320,7 +6807,7 @@
   {
     "Id": "96B",
     "Name": "Blazamut Ryu",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -6365,7 +6852,7 @@
   {
     "Id": "97",
     "Name": "Helzephyr",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -6406,7 +6893,7 @@
   {
     "Id": "97B",
     "Name": "Helzephyr Lux",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -6451,7 +6938,7 @@
   {
     "Id": "98",
     "Name": "Astegon",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6496,7 +6983,7 @@
   {
     "Id": "99",
     "Name": "Menasting",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -6541,7 +7028,7 @@
   {
     "Id": "99B",
     "Name": "Menasting Terra",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -6586,7 +7073,7 @@
   {
     "Id": "100",
     "Name": "Anubis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/10/Partner_Skill_Ground_Convert_icon.png?185860",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6606,7 +7093,7 @@
   {
     "Id": "101",
     "Name": "Jormuntide",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Watering",
@@ -6647,7 +7134,7 @@
   {
     "Id": "101B",
     "Name": "Jormuntide Ignis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -6688,7 +7175,7 @@
   {
     "Id": "102",
     "Name": "Suzaku",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -6729,7 +7216,7 @@
   {
     "Id": "102B",
     "Name": "Suzaku Aqua",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Watering",
@@ -6770,7 +7257,7 @@
   {
     "Id": "103",
     "Name": "Grizzbolt",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6823,7 +7310,7 @@
   {
     "Id": "104",
     "Name": "Lyleen",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/9e/Partner_Skill_Heal_icon.png?2307e8",
     "Suitability": [
       {
         "Work": "Planting",
@@ -6876,7 +7363,7 @@
   {
     "Id": "104B",
     "Name": "Lyleen Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/9e/Partner_Skill_Heal_icon.png?2307e8",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -6925,7 +7412,7 @@
   {
     "Id": "105",
     "Name": "Faleris",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -6970,7 +7457,7 @@
   {
     "Id": "105B",
     "Name": "Faleris Aqua",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -7015,7 +7502,7 @@
   {
     "Id": "106",
     "Name": "Orserk",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7064,7 +7551,7 @@
   {
     "Id": "107",
     "Name": "Shadowbeak",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -7105,7 +7592,7 @@
   {
     "Id": "108",
     "Name": "Paladius",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -7150,7 +7637,7 @@
   {
     "Id": "109",
     "Name": "Necromus",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -7195,7 +7682,7 @@
   {
     "Id": "110",
     "Name": "Frostallion",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Cooling",
@@ -7236,7 +7723,7 @@
   {
     "Id": "110B",
     "Name": "Frostallion Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -7277,7 +7764,7 @@
   {
     "Id": "111",
     "Name": "Jetragon",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -7318,7 +7805,7 @@
   {
     "Id": "112",
     "Name": "Bellanoir",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7367,7 +7854,7 @@
   {
     "Id": "112B",
     "Name": "Bellanoir Libero",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/74/Partner_Skill_Attack_icon.png?823a0a",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7416,7 +7903,7 @@
   {
     "Id": "113",
     "Name": "Selyne",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/b6/Partner_Skill_Flying_Mount_icon.png?e5a669",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7465,7 +7952,7 @@
   {
     "Id": "114",
     "Name": "Croajiro",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/17/Croajiro.png?540c17",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7516,9 +8003,62 @@
     ]
   },
   {
+    "Id": "114B",
+    "Name": "Croajiro Noct",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Mau",
+        "Child": "Kikit"
+      },
+      {
+        "Parent": "Teafant",
+        "Child": "Rushoar"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Mossanda"
+      },
+      {
+        "Parent": "Croajiro Noct",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Croajiro Noct",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Croajiro Noct",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Chikipi",
+        "Child": "Rushoar"
+      }
+    ]
+  },
+  {
     "Id": "115",
     "Name": "Lullu",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/9e/Partner_Skill_Heal_icon.png?2307e8",
     "Suitability": [
       {
         "Work": "Planting",
@@ -7571,7 +8111,7 @@
   {
     "Id": "116",
     "Name": "Shroomer",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -7624,7 +8164,7 @@
   {
     "Id": "116B",
     "Name": "Shroomer Noct",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Planting",
@@ -7677,7 +8217,7 @@
   {
     "Id": "117",
     "Name": "Kikit",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/e/e0/Kikit.png?18c48a",
     "Suitability": [
       {
         "Work": "Mining",
@@ -7718,7 +8258,7 @@
   {
     "Id": "118",
     "Name": "Sootseer",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/18/Partner_Skill_Farming_icon.png?fcc9ba",
     "Suitability": [
       {
         "Work": "Kindling",
@@ -7775,7 +8315,7 @@
   {
     "Id": "119",
     "Name": "Prixter",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Partner_Skill_Detection_icon.png?cda510",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -7824,7 +8364,7 @@
   {
     "Id": "120",
     "Name": "Knocklem",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/1e/Partner_Skill_Self_Boost_icon.png?3423a5",
     "Suitability": [
       {
         "Work": "Transporting",
@@ -7873,7 +8413,7 @@
   {
     "Id": "121",
     "Name": "Yakumo",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/b/ba/Yakumo.png?27ec6d",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -7914,7 +8454,7 @@
   {
     "Id": "122",
     "Name": "Dogen",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/8b/Partner_Skill_Detection_icon.png?cda510",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -7971,7 +8511,7 @@
   {
     "Id": "123",
     "Name": "Dazemu",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8012,7 +8552,7 @@
   {
     "Id": "124",
     "Name": "Mimog",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/d/d6/Mimog.png?3dc4ee",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8053,7 +8593,7 @@
   {
     "Id": "125",
     "Name": "Xenovader",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -8098,7 +8638,7 @@
   {
     "Id": "126",
     "Name": "Xenogard",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
     "Suitability": [
       {
         "Work": "Mining",
@@ -8139,7 +8679,7 @@
   {
     "Id": "127",
     "Name": "Xenolord",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/f/fc/Xenolord_icon.png?b6c477",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8180,7 +8720,7 @@
   {
     "Id": "128",
     "Name": "Nitemary",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/00/Nitemary_icon.png?fe690d",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -8225,7 +8765,7 @@
   {
     "Id": "129",
     "Name": "Starryon",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/53/Starryon_icon.png?325a23",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8266,7 +8806,7 @@
   {
     "Id": "130",
     "Name": "Silvegis",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/2/29/Silvegis_icon.png?ce8d96",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -8307,7 +8847,7 @@
   {
     "Id": "131",
     "Name": "Smokie",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/05/Smokie_icon.png?713372",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8348,7 +8888,7 @@
   {
     "Id": "132",
     "Name": "Celesdir",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c7/Celesdir_icon.png?6e656c",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -8393,7 +8933,7 @@
   {
     "Id": "133",
     "Name": "Omascul",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/1/1f/Omascul_icon.png?5e8fc2",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8434,7 +8974,7 @@
   {
     "Id": "134",
     "Name": "Splatterina",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/75/Splatterina_icon.png?727d0d",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -8487,7 +9027,7 @@
   {
     "Id": "135",
     "Name": "Tarantriss",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/94/Tarantriss_icon.png?4f72b5",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -8540,7 +9080,7 @@
   {
     "Id": "136",
     "Name": "Azurmane",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/7/7f/Azurmane_icon.png?10337a",
     "Suitability": [
       {
         "Work": "Electricity",
@@ -8585,7 +9125,7 @@
   {
     "Id": "137",
     "Name": "Bastigor",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/8/82/Bastigor_icon.png?bbde30",
     "Suitability": [
       {
         "Work": "Lumbering",
@@ -8634,7 +9174,7 @@
   {
     "Id": "138",
     "Name": "Prunelia",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c8/Prunelia_icon.png?43ea0c",
     "Suitability": [
       {
         "Work": "Planting",
@@ -8691,7 +9231,7 @@
   {
     "Id": "139",
     "Name": "Nyafia",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/09/Nyafia_icon.png?2b4665",
     "Suitability": [
       {
         "Work": "Handiwork",
@@ -8744,7 +9284,7 @@
   {
     "Id": "140",
     "Name": "Gildane",
-    "ImageUrl": "",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/6d/Gildane_icon.png?53b025",
     "Suitability": [
       {
         "Work": "Gathering",
@@ -8779,6 +9319,913 @@
       {
         "Parent": "Gildane",
         "Child": "Menasting"
+      }
+    ]
+  },
+  {
+    "Id": "141",
+    "Name": "Herbil",
+    "ImageUrl": "https://palworld.wiki.gg/images/0/09/Partner_Skill_Herbil_Pulse_icon.png?bf62b2",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Gathering",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Neptilius",
+        "Child": "Foxcicle"
+      },
+      {
+        "Parent": "Direhowl",
+        "Child": "Tanzee"
+      },
+      {
+        "Parent": "Beegarde",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Cawgnito",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Gobfin",
+        "Child": "Kelpsea Ignis"
+      },
+      {
+        "Parent": "Gobfin Ignis",
+        "Child": "Kelpsea Ignis"
+      },
+      {
+        "Parent": "Lunaris",
+        "Child": "Flopie"
+      }
+    ]
+  },
+  {
+    "Id": "142",
+    "Name": "Icelyn",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/6a/Partner_Skill_Witch%27s_Icy_Veil_icon.png?fb3f08",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Medicine",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Surfent",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Anubis",
+        "Child": "Incineram"
+      },
+      {
+        "Parent": "Sootseer",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Quivern"
+      },
+      {
+        "Parent": "Elphidran Aqua",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Elphidran",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Incineram Noct",
+        "Child": "Incineram"
+      }
+    ]
+  },
+  {
+    "Id": "143",
+    "Name": "Frostplume",
+    "ImageUrl": "https://palworld.wiki.gg/images/5/56/Partner_Skill_Peacock_Pounce_icon.png?98bded",
+    "Suitability": [
+      {
+        "Work": "Gathering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Robinquill",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Digtoise"
+      },
+      {
+        "Parent": "Robinquill Terra",
+        "Child": "Kitsun"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Ragnahawk"
+      },
+      {
+        "Parent": "Fenglope",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Verdash",
+        "Child": "Tarantriss"
+      },
+      {
+        "Parent": "Galeclaw",
+        "Child": "Digtoise"
+      }
+    ]
+  },
+  {
+    "Id": "144",
+    "Name": "Palumba",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 2
+      },
+      {
+        "Work": "Gathering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Beakon",
+        "Child": "Warsect"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Relaxaurus"
+      },
+      {
+        "Parent": "Lyleen Noct",
+        "Child": "Braloha"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Helzephyr",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Grizzbolt",
+        "Child": "Elizabee"
+      },
+      {
+        "Parent": "Silvegis",
+        "Child": "Braloha"
+      }
+    ]
+  },
+  {
+    "Id": "145",
+    "Name": "Braloha",
+    "ImageUrl": "https://palworld.wiki.gg/images/3/33/Partner_Skill_Drop_Boost_icon.png?d62c30",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 4
+      },
+      {
+        "Work": "Gathering",
+        "Level": 4
+      },
+      {
+        "Work": "Mining",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Katress Ignis",
+        "Child": "Grintale"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Silvegis"
+      },
+      {
+        "Parent": "Dazemu",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Vanwyrm",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Azurobe"
+      },
+      {
+        "Parent": "Blazehowl Noct",
+        "Child": "Gildane"
+      },
+      {
+        "Parent": "Univolt",
+        "Child": "Grintale"
+      }
+    ]
+  },
+  {
+    "Id": "146",
+    "Name": "Munchill",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 1
+      },
+      {
+        "Work": "Cooling",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Jetragon",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Frostallion Noct",
+        "Child": "Shroomer"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Blazehowl"
+      },
+      {
+        "Parent": "Suzaku Aqua",
+        "Child": "Univolt"
+      },
+      {
+        "Parent": "Suzaku",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Shadowbeak",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Necromus",
+        "Child": "Nitemary"
+      }
+    ]
+  },
+  {
+    "Id": "147",
+    "Name": "Polapup",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 2
+      },
+      {
+        "Work": "Cooling",
+        "Level": 3
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Mau",
+        "Child": "Lunaris"
+      },
+      {
+        "Parent": "Teafant",
+        "Child": "Leezpunk"
+      },
+      {
+        "Parent": "Cattiva",
+        "Child": "Turtacle"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Nitewing"
+      },
+      {
+        "Parent": "Vixy",
+        "Child": "Turtacle"
+      },
+      {
+        "Parent": "Cremis",
+        "Child": "Turtacle"
+      },
+      {
+        "Parent": "Chikipi",
+        "Child": "Kikit"
+      }
+    ]
+  },
+  {
+    "Id": "148",
+    "Name": "Turtacle",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Teafant",
+        "Child": "Swee"
+      },
+      {
+        "Parent": "Lamball",
+        "Child": "Killamari"
+      },
+      {
+        "Parent": "Cremis",
+        "Child": "Flopie"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Icelyn"
+      },
+      {
+        "Parent": "Vixy",
+        "Child": "Flopie"
+      },
+      {
+        "Parent": "Chikipi",
+        "Child": "Swee"
+      },
+      {
+        "Parent": "Mau",
+        "Child": "Finsider"
+      }
+    ]
+  },
+  {
+    "Id": "148B",
+    "Name": "Turtacle Terra",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Planting",
+        "Level": 4
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Mining",
+        "Level": 1
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Direhowl",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Gorirat",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Gorirat Terra",
+        "Child": "Vaelet"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Anubis"
+      },
+      {
+        "Parent": "Robinquill",
+        "Child": "Gorirat"
+      },
+      {
+        "Parent": "Beegarde",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Vaelet",
+        "Child": "Direhowl"
+      }
+    ]
+  },
+  {
+    "Id": "149",
+    "Name": "Jellroy",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c9/Partner_Skill_Fishing_icon.png?3540fb",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Medicine",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Neptilius",
+        "Child": "Polapup"
+      },
+      {
+        "Parent": "Kitsun Noct",
+        "Child": "Direhowl"
+      },
+      {
+        "Parent": "Rayhound",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Tombat",
+        "Child": "Beegarde"
+      },
+      {
+        "Parent": "Prunelia",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Foxcicle",
+        "Child": "Cawgnito"
+      },
+      {
+        "Parent": "Petallia",
+        "Child": "Gobfin"
+      }
+    ]
+  },
+  {
+    "Id": "150",
+    "Name": "Jelliette",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c9/Partner_Skill_Fishing_icon.png?3540fb",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 1
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Xenogard",
+        "Child": "Mozzarina"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Rayhound"
+      },
+      {
+        "Parent": "Ragnahawk",
+        "Child": "Reindrix"
+      },
+      {
+        "Parent": "Mossanda Lux",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Azurmane",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Sweepa",
+        "Child": "Dumud"
+      },
+      {
+        "Parent": "Nitewing",
+        "Child": "Lullu"
+      }
+    ]
+  },
+  {
+    "Id": "151",
+    "Name": "Gloopie",
+    "ImageUrl": "https://palworld.wiki.gg/images/c/c9/Partner_Skill_Fishing_icon.png?3540fb",
+    "Suitability": [
+      {
+        "Work": "Handiwork",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Teafant",
+        "Child": "Tocotoco"
+      },
+      {
+        "Parent": "Lamball",
+        "Child": "Munchill"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Nyafia"
+      },
+      {
+        "Parent": "Gloopie",
+        "Child": "Kelpsea"
+      },
+      {
+        "Parent": "Gloopie",
+        "Child": "Fuddler"
+      },
+      {
+        "Parent": "Chikipi",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Mau",
+        "Child": "Tocotoco"
+      }
+    ]
+  },
+  {
+    "Id": "152",
+    "Name": "Finsider",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Depresso",
+        "Child": "Tocotoco"
+      },
+      {
+        "Parent": "Jolthog",
+        "Child": "Munchill"
+      },
+      {
+        "Parent": "Jolthog Cryst",
+        "Child": "Fuack"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Katress"
+      },
+      {
+        "Parent": "Hoocrates",
+        "Child": "Tocotoco"
+      },
+      {
+        "Parent": "Foxparks",
+        "Child": "Pengullet"
+      },
+      {
+        "Parent": "Flambelle",
+        "Child": "Pengullet"
+      }
+    ]
+  },
+  {
+    "Id": "152B",
+    "Name": "Finsider Ignis",
+    "ImageUrl": "https://palworld.wiki.gg/images/9/98/Partner_Skill_Follower_icon.png?75f8d9",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 2
+      },
+      {
+        "Work": "Transporting",
+        "Level": 1
+      },
+      {
+        "Work": "Watering",
+        "Level": 2
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Nyafia",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Omascul",
+        "Child": "Yakumo"
+      },
+      {
+        "Parent": "Vanwyrm Cryst",
+        "Child": "Lovander"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Dazemu"
+      },
+      {
+        "Parent": "Vanwyrm",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Dogen",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Bushi",
+        "Child": "Loupmoon"
+      }
+    ]
+  },
+  {
+    "Id": "153",
+    "Name": "Ghangler",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Cryolinx",
+        "Child": "Elizabee"
+      },
+      {
+        "Parent": "Frostallion",
+        "Child": "Reptyro"
+      },
+      {
+        "Parent": "Jetragon",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Jormuntide"
+      },
+      {
+        "Parent": "Necromus",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Paladius",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Frostallion Noct",
+        "Child": "Jormuntide"
+      }
+    ]
+  },
+  {
+    "Id": "153B",
+    "Name": "Ghangler Ignis",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Transporting",
+        "Level": 2
+      },
+      {
+        "Work": "Watering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chikipi",
+        "Child": "Felbat"
+      },
+      {
+        "Parent": "Ghangler Ignis",
+        "Child": "Penking"
+      },
+      {
+        "Parent": "Lamball",
+        "Child": "Verdash"
+      },
+      {
+        "Parent": "Ghangler Ignis",
+        "Child": "Eikthyrdeer"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Mammorest"
+      },
+      {
+        "Parent": "Cattiva",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Mau",
+        "Child": "Verdash"
+      }
+    ]
+  },
+  {
+    "Id": "154",
+    "Name": "Whalaska",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Chikipi",
+        "Child": "Fenglope"
+      },
+      {
+        "Parent": "Whalaska",
+        "Child": "Wumpo Botan"
+      },
+      {
+        "Parent": "Mau",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Whalaska",
+        "Child": "Melpaca"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Knocklem"
+      },
+      {
+        "Parent": "Lamball",
+        "Child": "Loupmoon"
+      },
+      {
+        "Parent": "Teafant",
+        "Child": "Fenglope"
+      }
+    ]
+  },
+  {
+    "Id": "154B",
+    "Name": "Whalaska Ignis",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Kindling",
+        "Level": 3
+      },
+      {
+        "Work": "Cooling",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Mimog",
+        "Child": "Dinossom"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Menasting"
+      },
+      {
+        "Parent": "Nox",
+        "Child": "Chillet"
+      },
+      {
+        "Parent": "Maraith",
+        "Child": "Arsox"
+      },
+      {
+        "Parent": "Rooby",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Wixen",
+        "Child": "Croajiro"
+      },
+      {
+        "Parent": "Woolipop",
+        "Child": "Dinossom"
+      }
+    ]
+  },
+  {
+    "Id": "155",
+    "Name": "Neptilius",
+    "ImageUrl": "https://palworld.wiki.gg/images/6/60/Partner_Skill_Mount_icon.png?cba38a",
+    "Suitability": [
+      {
+        "Work": "Watering",
+        "Level": 4
+      }
+    ],
+    "Children": [
+      {
+        "Parent": "Bellanoir Libero",
+        "Child": "Suzaku"
+      },
+      {
+        "Parent": "Helzephyr Lux",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Bastigor",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Orserk",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Astegon",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Cryolinx Terra",
+        "Child": "Cryolinx"
+      },
+      {
+        "Parent": "Neptilius",
+        "Child": "Mossanda"
       }
     ]
   }

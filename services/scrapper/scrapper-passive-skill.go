@@ -6,6 +6,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"palworld_tools/models"
 	"sort"
 	"strconv"
 	"strings"
@@ -13,18 +14,12 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-type PassiveSkill struct {
-	Name   string
-	Effect string
-	Tier   int
-}
-
 func ScrapperPassiveSkill() error {
 	// URL of the Game8 Palworld Passive Skills page
 	url := "https://game8.co/games/Palworld/archives/439667"
 
 	// Read existing passive skills data or create new slice if file doesn't exist
-	var passiveSkills []PassiveSkill
+	var passiveSkills []models.PassiveSkill
 	data, err := os.ReadFile("passive_skills.json")
 	if err == nil {
 		err = json.Unmarshal(data, &passiveSkills)
@@ -81,7 +76,7 @@ func ScrapperPassiveSkill() error {
 					tier, _ := strconv.ParseInt(strings.Split(tierStr, " ")[1], 10, 64)
 
 					// Create a PassiveSkill object and append it to the slice
-					passiveSkill := PassiveSkill{
+					passiveSkill := models.PassiveSkill{
 						Name:   name,
 						Effect: effect,
 						Tier:   int(tier),
@@ -116,7 +111,7 @@ func ScrapperPassiveSkill() error {
 
 }
 
-func isPassiveSkillExists(passiveSkills []PassiveSkill, pk string) bool {
+func isPassiveSkillExists(passiveSkills []models.PassiveSkill, pk string) bool {
 	for _, passiveSkill := range passiveSkills {
 		if passiveSkill.Name == pk {
 			return true

@@ -1,5 +1,14 @@
 [
   {
+    "Name": "Mount",
+    "Skills": [
+      "Swift",
+      "Legend",
+      "Runner",
+      "Eternal Engine"
+    ]
+  },
+  {
     "Name": "Combat",
     "Skills": [
       "Legend",
@@ -15,15 +24,6 @@
       "Work Slave",
       "Serious",
       "Remarkable Craftsmanship"
-    ]
-  },
-  {
-    "Name": "Mount",
-    "Skills": [
-      "Swift",
-      "Legend",
-      "Runner",
-      "Eternal Engine"
     ]
   }
 ]
