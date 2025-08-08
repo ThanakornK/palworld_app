@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"palworld_tools/config"
 	"palworld_tools/dto"
 	"palworld_tools/models"
 	"palworld_tools/services/datamanage"
@@ -13,12 +14,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/davecgh/go-spew/spew"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-contrib/cors"
 )
 
 func main() {
+	// Load configuration from environment variables
+	cfg := config.LoadConfig()
+
+	// Set Gin mode based on configuration
+	gin.SetMode(cfg.GinMode)
+
 	// var functionName string
 
 	// menus := map[string]string{
@@ -67,12 +73,12 @@ func main() {
 
 	r := gin.Default()
 
-	// Configure CORS
-	config := cors.DefaultConfig()
-	config.AllowOrigins = []string{"http://localhost:3000", "http://localhost:3001"}
-	config.AllowMethods = []string{"GET", "POST", "PUT", "DELETE", "OPTIONS"}
-	config.AllowHeaders = []string{"Origin", "Content-Type", "Accept", "Authorization"}
-	r.Use(cors.New(config))
+	// Configure CORS using environment variables
+	corsConfig := cors.DefaultConfig()
+	corsConfig.AllowOrigins = cfg.AllowedOrigins
+	corsConfig.AllowMethods = cfg.AllowedMethods
+	corsConfig.AllowHeaders = cfg.AllowedHeaders
+	r.Use(cors.New(corsConfig))
 
 	r.GET("/update-data", func(ctx *gin.Context) {
 		err := updateData()
@@ -112,8 +118,6 @@ func main() {
 		// make map of palDex
 		palDexMap := make(map[string]models.Pal)
 		for _, pal := range palDex {
-			spew.Dump("CHECK PALDEX", pal.ImageUrl)
-
 			palDexMap[strings.ToLower(pal.Name)] = pal
 		}
 
@@ -169,7 +173,9 @@ func main() {
 		})
 	}
 
-	r.Run(":8080")
+	// Start server on configured port
+	fmt.Printf("Starting server on port %s\n", cfg.Port)
+	r.Run(":" + cfg.Port)
 
 }
 
