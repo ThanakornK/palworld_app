@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-gonic/gin"
 	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
@@ -24,52 +24,6 @@ func main() {
 
 	// Set Gin mode based on configuration
 	gin.SetMode(cfg.GinMode)
-
-	// var functionName string
-
-	// menus := map[string]string{
-	// 	"1": "Update Data",
-	// 	"2": "Add Pal to store",
-	// }
-
-	// fmt.Println("Enter function: ")
-	// for i, menu := range menus {
-	// 	fmt.Printf("%s. %s\n", i, menu)
-	// }
-	// // fmt.Println("1. Update Data")
-	// // fmt.Println("2. Add Pal to store")
-	// fmt.Print("Function number: ")
-	// reader := bufio.NewReader(os.Stdin)
-	// functionName, _ = reader.ReadString('\n')
-	// functionName = strings.TrimSpace(functionName)
-
-	// switch functionName {
-	// case "1":
-	// 	fmt.Println("Update Data")
-	// 	loading(updateData)
-
-	// case "2":
-	// 	// loop enter until enter empty
-	// 	for {
-	// 		fmt.Println("Add Pal to store")
-	// 		err := AddPalToStore()
-	// 		if err != nil {
-	// 			fmt.Println("Error Add Pal to store: ", err)
-	// 		}
-
-	// 		fmt.Println("Add another pal? (y/n)")
-	// 		reader := bufio.NewReader(os.Stdin)
-	// 		answer, _ := reader.ReadString('\n')
-	// 		answer = strings.TrimSpace(answer)
-	// 		if answer == "n" {
-	// 			break
-	// 		}
-
-	// 	}
-
-	// default:
-	// 	fmt.Println("Invalid function number")
-	// }
 
 	r := gin.Default()
 
@@ -148,6 +102,21 @@ func main() {
 		}
 
 		ctx.JSON(http.StatusOK, gin.H{"message": pals})
+	})
+
+	r.DELETE("/remove-pal", func(ctx *gin.Context) {
+		var pal dto.RemovePalRequest
+
+		if err := ctx.ShouldBindJSON(&pal); err != nil {
+			ctx.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+			return
+		}
+		err := datamanage.RemovePal(pal.Name, pal.Id)
+		if err != nil {
+			ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
+			return
+		}
+		ctx.JSON(http.StatusOK, gin.H{"message": "Pal removed successfully"})
 	})
 
 	optionGroup := r.Group("/options")
@@ -264,103 +233,3 @@ func AddPalToStore() error {
 
 	return nil
 }
-
-// func init() {
-// 	r := gin.Default()
-
-// 	r.GET("/update-data", func(ctx *gin.Context) {
-// 		err := updateData()
-// 		if err != nil {
-// 			ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-// 			return
-// 		}
-// 		ctx.JSON(http.StatusOK, gin.H{"message": "Data updated successfully"})
-
-// 	})
-
-// 	r.POST("/add-pal", func(ctx *gin.Context) {
-// 		var pal dto.AddPalRequest
-
-// 		if err := ctx.ShouldBindJSON(&pal); err != nil {
-// 			ctx.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
-// 			return
-// 		}
-// 		err := datamanage.AddPal(pal.Name, pal.Gender, pal.PassiveSkills)
-// 		if err != nil {
-// 			ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-// 			return
-// 		}
-// 		ctx.JSON(http.StatusOK, gin.H{"message": "Pal added successfully"})
-// 	})
-
-// 	r.GET("/store", func(ctx *gin.Context) {
-// 		result, err := datamanage.ReadStoredPals()
-// 		if err != nil {
-// 			ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-// 			return
-
-// 		}
-
-// 		palDex, err := datamanage.ReadPaldex()
-
-// 		// make map of palDex
-// 		palDexMap := make(map[string]models.Pal)
-// 		for _, pal := range palDex {
-// 			palDexMap[pal.Name] = pal
-// 		}
-
-// 		var pals []dto.Pal
-// 		for _, species := range result {
-// 			for _, pal := range species.StoredPals {
-
-// 				var passiveSkills []dto.PassiveSkill
-// 				for _, skill := range pal.PassiveSkills {
-// 					passiveSkills = append(passiveSkills, dto.PassiveSkill{
-// 						Name: skill,
-// 					})
-// 				}
-
-// 				pals = append(pals, dto.Pal{
-// 					Id:            pal.ID,
-// 					Name:          species.Name,
-// 					ImageUrl:      palDexMap[species.Name].ImageUrl,
-// 					Gender:        pal.Gender,
-// 					PassiveSkills: passiveSkills,
-// 				})
-// 			}
-// 		}
-
-// 		if err != nil {
-// 			ctx.JSON(http.StatusInternalServerError, gin.H{"error": err.Error()})
-// 			return
-// 		}
-
-// 		ctx.JSON(http.StatusOK, gin.H{"message": pals})
-// 	})
-
-// 	optionGroup := r.Group("/options")
-// 	{
-// 		optionGroup.GET("/passive-skills", func(ctx *gin.Context) {
-// 			result := options.GetPassiveSkills()
-
-// 			var passiveSkills []string
-// 			passiveSkills = append(passiveSkills, result...)
-
-// 			ctx.JSON(http.StatusOK, gin.H{"message": passiveSkills})
-// 		})
-
-// 		optionGroup.GET("/pal-species", func(ctx *gin.Context) {
-
-// 			result := options.GetPalSpecies()
-
-// 			var palSpecies []string
-// 			palSpecies = append(palSpecies, result...)
-
-// 			ctx.JSON(http.StatusOK, gin.H{"message": palSpecies})
-
-// 		})
-// 	}
-
-// 	r.Run(":8080")
-
-// }

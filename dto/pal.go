@@ -22,3 +22,8 @@ type PassiveSkill struct {
 type PalSpecies struct {
 	Name string `json:"name"`
 }
+
+type RemovePalRequest struct {
+	Name string `json:"name"`
+	Id   int    `json:"id"`
+}
